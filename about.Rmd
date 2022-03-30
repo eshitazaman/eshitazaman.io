@@ -2,5 +2,4 @@
 title: "About This Website"
 ---
 
-My name is Eshita Zaman. I am a Ph.D. student in the department of Computer Science. My research area is formal method. I work in the area of model-checking, specifically probabilistic model-checking for discrete-time Markov chains(DTMCs).
 My name is Eshita Zaman. I am a Ph.D. student in the department of Computer Science. My research area is formal method. I am working in the area of model-checking, specifically probabilistic model-checking for discrete-time Markov chains(DTMCs).Our recent work on model-checking HyperPCTL formulas using numerical approach has been accepted in iFM 2022 conference. I am currently working on model-checking partially-labeled Kripke structure using temporal logic CTL.
