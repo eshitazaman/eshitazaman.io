@@ -1,5 +1,8 @@
 ---
-title: "My Website"
+title: "Introduction"
+author: "About Me"
+
 ---
 
-Hello, Website!
+
+My name is Eshita Zaman. I am a Ph.D. student in the department of Computer Science at Iowa State University.  Dr. Gianfranco Ciardo is my major professor. My research area is formal methods. I am working on verifying safety critical hyperproperties expressed in temporal logic HyperPCTL for discrete-time Markov chains (DTMCs) and temporal logic HyperCSL for continuous-time Markov chains (CTMCs). I am currently working on model-checking partially-labeled Kripke structure using temporal logic CTL.

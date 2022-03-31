@@ -1,3 +1,23 @@
+  #header::before {
+   content: "";
+   height: 150px;
+   width: 150px;
+   float: right;
+   background-image: url("EshitaZaman250.png");
+   background-size: contain;
+   background-position: center center;
+   background-repeat: no-repeat;
+ }
+
+/* links */
+a { 
+  color: #5ebccf;
+}
+
+a:hover {
+ color: #50a0b0; /* darker color when hovering */
+}
+
 blockquote {
   font-style: italic
 }
