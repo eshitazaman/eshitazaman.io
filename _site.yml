@@ -11,14 +11,11 @@ navbar:
     - text : "GitHub"
       icon: fa-github
       href: https://github.com/eshitazaman/
-    - text : "Stackoverflow"
-      icon: fa-stack-overflow
-      href: https://www.stackoverflow.com
+    - text : "Projects"
       menu:
-        - text: "Heading 1"
-        - text: "Page A"
+        - text: "Projects"
           href: page-a.html
-        - text: "Page B"
+       
 
 output:
   html_document:

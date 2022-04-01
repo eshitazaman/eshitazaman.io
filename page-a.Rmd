@@ -2,4 +2,9 @@
 title: "My Projects"
 ---
 
-Testing menu
+I have worked in some interesting projects. I want to give a brief description about them below:
+
++ Finding similarities among movies from their summary.
+
++ Classification of leaves from their images.
+
